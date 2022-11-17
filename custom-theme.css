@@ -1,0 +1,26 @@
+:root {
+
+    /*Color Scheme*/
+    --background: rgb(9, 10, 14);
+    --background-light: rgb(19, 21, 29);
+    --background-light2: rgb(15, 17, 25);
+    --background-light3: rgb(62, 68, 88);
+    --transparent-background: rgba(9, 10, 14, 0.9);
+    --text: rgb(233, 233, 233);
+    --subtext: rgb(179, 179, 179);
+    --title: rgb(100, 81, 255);
+    --url: rgb(147, 133, 253);
+    
+    --warning: rgb(255, 208, 0);
+    --red: rgb(255, 35, 64);
+    --alerbox: rgba(255, 35, 64, 0.089);
+    --alertbox-outline: rgba(255, 35, 64, 0.301);
+    
+    --codeblock: rgba(100, 81, 255, 0.089);
+    --codeblock-white: rgba(255, 255, 255, 0.301);
+    --codeblock-outline: rgba(100, 81, 255, 0.301);
+}
+
+#dark {
+    border: 2px solid var(--title) !important; 
+}
