@@ -21,6 +21,6 @@
     --codeblock-outline: rgba(100, 81, 255, 0.301);
 }
 
-#dark {
+#custom {
     border: 2px solid var(--title) !important; 
 }
